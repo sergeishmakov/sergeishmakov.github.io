@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"5f83":function(t,n,e){},f26d:function(t,n,e){"use strict";var a=e("5f83"),o=e.n(a);o.a},f820:function(t,n,e){"use strict";e.r(n);var a=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("Layout",[e("div",{staticClass:"about"},[e("h2",[t._v(" This app is exam task for education new tecnology - VueJs. ")]),e("h4",[t._v("Shmakov Sergey")])])])},o=[],s=(e("f26d"),e("2877")),u={},c=Object(s["a"])(u,a,o,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=about.e2797757.js.map
